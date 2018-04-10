@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\bin\Debug\netcoreapp2.0\CapacitacionGitHub.deps.json
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\bin\Debug\netcoreapp2.0\CapacitacionGitHub.runtimeconfig.json
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\bin\Debug\netcoreapp2.0\CapacitacionGitHub.runtimeconfig.dev.json
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\bin\Debug\netcoreapp2.0\CapacitacionGitHub.dll
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\bin\Debug\netcoreapp2.0\CapacitacionGitHub.pdb
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\obj\Debug\netcoreapp2.0\CapacitacionGitHub.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\obj\Debug\netcoreapp2.0\CapacitacionGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\obj\Debug\netcoreapp2.0\CapacitacionGitHub.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\obj\Debug\netcoreapp2.0\CapacitacionGitHub.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\obj\Debug\netcoreapp2.0\CapacitacionGitHub.dll
+C:\Users\Alumno\source\repos\CapacitacionGitHub\CapacitacionGitHub\obj\Debug\netcoreapp2.0\CapacitacionGitHub.pdb

@@ -6,7 +6,8 @@ namespace CapacitacionGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Capacitacion de GitHub");
+            Console.Read();
         }
     }
 }
