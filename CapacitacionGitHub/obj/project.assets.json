@@ -664,25 +664,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alumno\\.nuget\\packages\\": {},
+    "C:\\Users\\Ramon Eduardo Diaz\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno\\source\\repos\\CapacitacionGitHub\\CapacitacionGitHub\\CapacitacionGitHub.csproj",
+      "projectUniqueName": "C:\\Users\\Ramon Eduardo Diaz\\Source\\Repos\\CapacitacionGitHub2\\CapacitacionGitHub\\CapacitacionGitHub.csproj",
       "projectName": "CapacitacionGitHub",
-      "projectPath": "C:\\Users\\Alumno\\source\\repos\\CapacitacionGitHub\\CapacitacionGitHub\\CapacitacionGitHub.csproj",
-      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno\\source\\repos\\CapacitacionGitHub\\CapacitacionGitHub\\obj\\",
+      "projectPath": "C:\\Users\\Ramon Eduardo Diaz\\Source\\Repos\\CapacitacionGitHub2\\CapacitacionGitHub\\CapacitacionGitHub.csproj",
+      "packagesPath": "C:\\Users\\Ramon Eduardo Diaz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ramon Eduardo Diaz\\Source\\Repos\\CapacitacionGitHub2\\CapacitacionGitHub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ramon Eduardo Diaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
